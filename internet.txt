@@ -1,0 +1,22 @@
+Resumo  do conteúdo 
+Assunto da 1º aula no dia 16/02/2020
+
+-> Sobre a internet  começou por voltar de 40 anos atrás durante a guerra fria em setembro de 1969 o departamento de defesa Americana ficou comedo de sofre um ataque dos Russo para invadir os seus dados. Essa suporte ataque foi chamado de embrião da internet.
+
+-> Os Americanos foi vendo qual a melhor forma de proteger seu dados . Antes dos dados eram enviado direto caso sofre algum ataque os dados eram pedido sem ter a possibilidade de recuperar. Com essa a preocupações foram criando alguns nó pois quando os dados for enviado se sofre alguns ataque esse nó seria quebrados mas as informações seria enviado por outro portas e seria entre os dados a seu destino.
+
+-> ARPA: é um Órgão responsável pelo desenvolvimento de pesquisa cientifica e tecnologia.
+
+-> A internet tem seu requisitos:
+1-> utilizar os serviços de hardware distribuídos;
+2-> Ser recuperável a distancia ;
+3-> Utiliza banco de dados remotamente;
+4-> Compartilha su-rotinas de softwere e pacotes nos computadores de usuários.
+
+-> Suas principais redes socias:
+ 
+* 1: Arpanet: Que é a internet que usamos no dia a dia.
+* 2: Bitnet: Foi criado para enviar e receber E-mail de instituições, pesquisa eram enviado entre as instituições os usuários não tinha acesso.
+* 3: Usenet: É uma rede de comunicação entre usuário que podia enviar e receber e-mail e se comunicar com outras pessoas.
+* 4: Fidonet: Foi criado para usuário ter acessos as notícias, pate-papo, jogos e enviar e receber e-mail entre se.
+ 
